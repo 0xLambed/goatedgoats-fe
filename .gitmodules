@@ -1,0 +1,3 @@
+[submodule "flow-nft-vouchers"]
+	path = flow-nft-vouchers
+	url = https://github.com/aMemoryLeak/flow-nft-vouchers
